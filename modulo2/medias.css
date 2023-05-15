@@ -1,0 +1,65 @@
+@media screen and (max-width: 480px) { 
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video,.produtos{
+        width: auto;
+    }
+    h1 {
+        text-align: center;
+    }
+    nav {
+        position:static;
+    }
+    .lista-beneficios, imagem-beneficios {
+        width: 100%
+    }
+    main{
+        margin: auto;
+    }
+
+    .produtos img{
+        max-width: 100%;
+        height: auto;
+    }
+    .produtos li{
+        display: block;
+        width: auto;
+        margin: 0 30px 10px ;
+        
+    } 
+   .input-padrao{
+    margin:2px 0 5px 6px;
+   } 
+   .background_contato{
+    background-image: none;
+    background-color: white;
+   } 
+}
+@media screen and (max-width: 980px) { 
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video,.produtos{
+        width: auto;
+    }
+    h1 {
+        text-align: center;
+    }
+    nav {
+        position:static;
+    }
+    .lista-beneficios, imagem-beneficios {
+        width: 100%
+    }
+    main{
+        margin: auto;
+    }
+
+    .produtos img{
+        max-width: 100%;
+        height: auto;
+    }
+    .produtos li{
+        display: block;
+        width: auto;
+        margin: 0 30px 10px ;
+        
+    }
+
+   
+}
